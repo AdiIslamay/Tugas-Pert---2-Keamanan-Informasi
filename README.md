@@ -1,8 +1,8 @@
 # Tugas-Pert---2-Keamanan-Informasi
 
-Nama  : Adi Islamay Vivaldi M
-NIM   : 20190801332
-Prodi : Teknik Informatika
+Nama  : Adi Islamay Vivaldi M<br>
+NIM   : 20190801332<br>
+Prodi : Teknik Informatika<br>
 
 
 Link Youtube
